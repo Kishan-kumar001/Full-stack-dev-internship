@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #007bff;
+}
+
+.hero-section {
+  background: url("images/hero-bg.jpg") no-repeat center center/cover;
+  color: white;
+  padding: 100px 0;
+}
+
+.about-section,
+.testimonials-section,
+.pricing-section {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+}
+
+.services-section {
+  background-color: #e9ecef;
+  padding: 50px 0;
+}
+.services-section .card {
+  padding: 20px;
+  background: white;
+  border: none;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pricing-card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
